@@ -1,0 +1,101 @@
+#### Inference :
+
+* It seems almost 70% of show type telecasted in Netflix are 'Movies'
+
+* It seems 50% of Movies/TV shows have title length less than or equal to 15. Since there is outliers in the data
+
+* Maximum Title length of Movie is 104 and minimum being 1
+
+* Maximum Title length of TV shows is 93 and minimum being 1
+
+* It seems around 5555 Movies have only one director
+
+* "Walt Disney Animation Studios Short Films Collection" movie has 13 directors
+
+* It seems 187 movies doesn't have no director name associated with it
+
+* 42 TV Shows have more than 1 director
+
+* "Navarasa" is the show having 9 directors
+
+* 2434 TV shows have no director name associated with it
+
+* Ken Burns & Alastair Fothergill tops the director list in directing more TV shows
+
+* Netflix telecasted 42 movies acted by Anupam Kher
+
+* Netflix telecasted 25 shows acted by Takahiro Sakurai
+
+* Netflix telecasting 5055 movies in only one country
+
+* 'Barbeque' movie is telecasted in 12 countries and it tops the list
+
+* Netflix telecasting 2419 TV shows in only one Country
+
+* 'Shaun the Sheep' show is telecasted in 8 countries and it tops the list
+
+* It seems Netflix hosting more movies in 'United States'(2748) & 'India'(962)
+
+* It seems Netflix hosting more TV Shows in 'United States'(932) & 'United Kingdom'(271)
+
+* Most number of Movies added in Netflix in 2019
+
+* Most number of TV Shows added in Netflix in 2020
+
+* It seems Movies released in 2018 (767 Movies) are telecasted more in Netflix
+
+* It seems TV shows released in 2020 (436 Shows) are telecasted more in Netflix
+
+* It seems 'TV-MA' rating movies/TV shows are telecasted more in Netflix
+
+* It seems Average duration of movies is 99 mins
+
+* Movies having 90 mins duration seems to be telecasted more in Netflix
+
+* 'International Movies' with 2752 movies seems to be top of the genres list telecasted in Netflix 
+
+* 'International TV Shows' with 1349 shows to be top of the genres list telecasted in Netflix
+
+#### Recommendations :
+
+* It is highly recommended to increase "TV shows" as it is only 30% of total shows telecasted in Netflix 
+
+* It is highly recommended to add a Movie/TV shows of Title length below 15
+
+* It seems only 571 Movies have more than 1 director.It is highly recommended to add Movies with more than 1 director. 
+
+* It seems around 3808 director's single movie has been telescasted in Netflix. It is highly recommended to add more movies of these director
+
+* It is highly recommended to add TV shows having more directors as only 12 shows is currently have more than 1 director
+
+* Netflix is telecasting only 1071 movies in more than 1 country. Hence it is higly recommended to have more movies capable of telecasting across multiple countries.
+
+* Out of 2664 TV shows , only 245 TV Shows are telecasted in more than 1 Country.Hence it is higly recommended to add such kind of TV Shows
+
+* It is highly recommended to produce & host movies in United Kingdom, Canada,France
+
+* It is highly recommended to produce & host movies in India, Canada,France
+
+* It seems Movies addition to Netflix got reduced after 2019, It is highly recommended to add more Movies
+
+* It seems TV shows addition to Netflix got reduced after 2020, It is highly recommended to add more TV shows
+
+* It is highly recommended to add movies released after 2018
+
+* It is highly recommended to add TV Shows released after 2020
+
+* It is highly recommended to add more Movies/TV Shows other than "TV-MA" rating
+
+* It is highly recommended to add Movies in 'Comedies,Action & Adventure' genres in Netflix
+
+* It is highly recommended to add TV shows in 'Crime TV Shows,Kids TV' genres in Netflix
+
+
+
+
+
+
+
+
+
+
